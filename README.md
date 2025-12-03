@@ -4,8 +4,8 @@
 
 ### Computer Engineering Student | Competitive Programmer
 
-[![](https://img.shields.io/badge/Codeforces-Expert-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/HanyOsama145)
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![](https://img.shields.io/badge/Codeforces-Expert-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Hany_Osama)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hany-osama-0881ba229/)
 [![](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:hanyosama13.com@gmail.com)
 
 </div>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Engineering undergraduate at the Arab Academy for Science, Technology and Maritime Transport (Expected Graduation: 2027).
+I am a Computer Engineering undergraduate at the Arab Academy for Science, Technology and Maritime Transport.
 
 * **President, CPC Club:** Leading the Competitive Programming Club at AAST.
 * **Problem Setter & Judge:** IEEEXTREME 19.0 Global Competition.
@@ -37,10 +37,3 @@ I am a Computer Engineering undergraduate at the Arab Academy for Science, Techn
 * **Tools:** Visual Studio, VS Code, Git
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanyOsama145&show_icons=true&theme=default&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanyOsama145&layout=compact&theme=default&hide_border=true" height="150" alt="Top Languages" />
-</div>
